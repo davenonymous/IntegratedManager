@@ -153,6 +153,7 @@ dependencies {
     runtimeOnly "org.cyclops.integratedcrafting:integratedcrafting-${minecraft_version}-neoforge:${integratedcrafting_version}"
     compileOnly "org.cyclops.integratedscripting:integratedscripting-${minecraft_version}-neoforge:${integratedscripting_version}:deobf"
     runtimeOnly "org.cyclops.integratedscripting:integratedscripting-${minecraft_version}-neoforge:${integratedscripting_version}"
+
     compileOnly "org.cyclops.integratedrest:integratedrest-${minecraft_version}-neoforge:${integratedrest_version}:deobf"
     runtimeOnly "org.cyclops.integratedrest:integratedrest-${minecraft_version}-neoforge:${integratedrest_version}"
 

@@ -10,7 +10,7 @@ import net.neoforged.neoforge.data.event.GatherDataEvent;
 
 import java.util.concurrent.CompletableFuture;
 
-@EventBusSubscriber(modid = IntegratedManager.MODID, bus = EventBusSubscriber.Bus.MOD)
+@EventBusSubscriber(modid = IntegratedManager.MODID)
 public class DGHandler {
 	@SuppressWarnings("ConstantConditions")
 	@SubscribeEvent
